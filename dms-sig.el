@@ -8,6 +8,8 @@
 ;; Version: 3.1
 ;; Keywords: multiple mail signature, random quotes
 ;;
+;; License: GPL
+;;
 ;; This file is not part of EMACS
 ;;
 ;;; Summary of Recent Changes
